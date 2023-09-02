@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1693668276 source:c:\users\admin\desktop\alx\claculator.c\main.c
+	"Calculate.h"
+
+1693668026 c:\users\admin\desktop\alx\claculator.c\calculate.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1693668276 source:c:\users\admin\desktop\alx\claculator.c\history.c
+	"Calculate.h"
+
+1693667123 source:c:\users\admin\desktop\alx\claculator.c\removehistory.c
+	"Calculate.h"
+
+1693668265 source:c:\users\admin\desktop\alx\claculator.c\calculator.c
+	"Calculate.h"
+
+1693668013 source:c:\users\admin\desktop\alx\claculator.c\binarycalc.c
+	"Calculate.h"
+
+1693667414 source:c:\users\admin\desktop\alx\claculator.c\dispalyhistory.c
+	"Calculate.h"
+
