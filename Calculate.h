@@ -12,6 +12,7 @@ typedef struct {
     float firstNum;
     float secondNum;
     float result;
+    long long int fact;
 } Calculation;
 
 char* decimalToBinary(int decimal);
@@ -21,6 +22,6 @@ float min(float fst, float scn);
 void calculator();
 void displayHistory();
 void square();
-
+long long factorial(int n);
 
 #endif // CALCULATE_H_INCLUDED
